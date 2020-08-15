@@ -1,8 +1,8 @@
-### Hi there 👋
+Hi there 👋, I'm Iyiola 
 
 <!--
 **iyiola-dev/iyiola-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Hi there wave, Iyiola
+Hi there wave, Iyiola-->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,4 +12,4 @@ Hi there wave, Iyiola
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
